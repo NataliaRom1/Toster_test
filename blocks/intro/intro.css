@@ -1,0 +1,22 @@
+.intro {
+  display: flex;
+  flex-direction: column;
+  gap: 7px;
+  align-items: center;
+  background: #FFD1AC;
+  padding: 19px 0;
+}
+
+.intro__logo {
+  width: 218px;
+  height: 31px;
+}
+
+.intro__text {
+  color: #2C2B31;
+  text-align: center;
+  font-size: 13.5px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+}

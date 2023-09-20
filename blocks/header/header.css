@@ -1,0 +1,23 @@
+.header {
+  max-width: 390px;
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background: #F19D2F;
+  padding: 10px 0 10px;
+}
+
+.header__flag-icon {
+  width: 12.7px;
+  height: 13.6px;
+}
+
+.header__text {
+  color: #2C2B31;
+  text-align: center;
+  font-size: 12.7px;
+  font-weight: 400;
+  line-height: normal;
+  text-transform: uppercase;
+}

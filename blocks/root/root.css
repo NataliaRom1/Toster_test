@@ -1,0 +1,24 @@
+.root {
+  font-family: "Gotham Pro", Arial, sans-serif;
+  color: #FFFFFF;
+  margin: 0 auto;
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+
+}
+
+h1,
+h2,
+h3,
+ul,
+li,
+p {
+  margin: 0;
+  padding: 0;
+}
+
+.flag-icon {
+  width: 12.7px;
+  height: 13.6px;
+}
